@@ -32,6 +32,8 @@ public class AboutActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
+        setTitle(R.string.about_alc_4_0);
+
         if (intent.hasExtra(EXTRA_URL)) {
             String aboutUrl = intent.getStringExtra(EXTRA_URL);
             setupWebView(aboutUrl);

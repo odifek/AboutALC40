@@ -35,5 +35,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        setTitle(R.string.alc_with_google);
+
     }
 }
