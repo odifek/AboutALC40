@@ -4,4 +4,5 @@
     <string name="my_profile">My Profile</string>
     <string name="alc_4_0">ALC 4.0</string>
     <string name="welcome_to">Welcome to</string>
+    <string name="ssl_error_message">Oops! Looks like Certificate returned by the website is not one of those we trust. If you are sure of the website you can proceed though.</string>
 </resources>
