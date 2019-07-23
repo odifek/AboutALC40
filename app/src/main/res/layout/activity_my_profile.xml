@@ -16,7 +16,7 @@
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@drawable/my_picture" />
+        tools:src="@drawable/my_picture" />
 
     <TextView
         android:id="@+id/textView_name"
